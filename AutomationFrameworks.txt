@@ -5,10 +5,6 @@ Page Object Model Testing Framework
 Copy Paste Make It Work Framework
 Somehow
 Another Framework
-<<<<<<< Updated upstream
 Frameworks
 
 
-=======
-FRAMEWORK
->>>>>>> Stashed changes
