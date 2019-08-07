@@ -7,5 +7,7 @@ yellow
 heyyyy
 mark
 white
+<<<<<<< HEAD
 FISRT
+LAST
 
