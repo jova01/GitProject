@@ -5,8 +5,6 @@ pink
 black
 yellow
 heyyyy
-<<<<<<< HEAD
 mark
-=======
 white
->>>>>>> 356fce73037c9737892e2ad32a2ce1b9a7f0e235
+
