@@ -3,13 +3,4 @@ red
 orange
 pink
 black
-yellow
-<<<<<<< HEAD
-heyyyy
-mark
-white
-FISRT
-LAST
-=======
->>>>>>> f98f570b9d7063ff9c9675e5bb79e0bbc3d82e68
 
