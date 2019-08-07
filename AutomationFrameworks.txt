@@ -1,10 +1,3 @@
 Data Driven Testing Framework
-Keyword Driven Testing Framework
-Behavioral Driven Testing Framework
-Page Object Model Testing Framework
-Copy Paste Make It Work Framework
-Somehow
-Another Framework
-
 
 
