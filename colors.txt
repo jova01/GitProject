@@ -4,10 +4,4 @@ orange
 pink
 black
 yellow
-heyyyy
-mark
-white
-<<<<<<< HEAD
-FISRT
-LAST
 
